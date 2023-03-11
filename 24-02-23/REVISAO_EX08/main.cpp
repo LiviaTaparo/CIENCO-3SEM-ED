@@ -51,9 +51,9 @@ int main()
         pvb = cBranco / totalV;
 
         cout << "\nPorcentagem Fulano: " << pvcUm;
-        cout << "\nPorcentagem Fulano: " << pvcDois;
-        cout << "\nPorcentagem Fulano: " << pvn;
-        cout << "\nPorcentagem Fulano: " << pvb;
+        cout << "\nPorcentagem Siclano: " << pvcDois;
+        cout << "\nPorcentagem Nulo: " << pvn;
+        cout << "\nPorcentagem Branco: " << pvb;
 
 
 
