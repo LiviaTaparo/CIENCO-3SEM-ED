@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-#define ZOO 2
+#define ZOO 10
 
 using namespace std;
 
