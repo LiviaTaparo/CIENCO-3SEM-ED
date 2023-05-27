@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1685146261 source:c:\users\user\documents\lívia cienco\3° semestre cienco\exercicio01_atendimento_fila_26-05\main.cpp
+	<iostream>
+	<queue>
+
